@@ -2,7 +2,7 @@
 
 ## Como usar
 
-Apenas execute o comando abaixo no terminal
+Apenas baixe o aquivo .sh ou clone esse repositório e então na pasta onde está o script rode no terminaç
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Victor-M-Andrade/ubuntu-pos-install/main/pos_install_ubuntu.sh)"
+./pos_install_ubuntu.sh
 ```
