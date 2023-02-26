@@ -66,6 +66,8 @@ PROGRAMAS_FLATPAKS=(
     com.valvesoftware.Steam
     io.github.jeffshee.Hidamari
     org.gnome.baobab #Gerenciador de Disco
+    org.flameshot.Flameshot
+    org.gimp.GIMP
 )
 
 
