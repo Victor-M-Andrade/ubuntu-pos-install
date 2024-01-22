@@ -6,5 +6,3 @@ Apenas baixe o aquivo .sh ou clone esse repositório e então na pasta onde est�
 ```shell
 ./pos_install_ubuntu.sh
 ```
-# ubuntu-pos-install
-# ubuntu-pos-install
